@@ -1,0 +1,9 @@
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\bin\Debug\Lab01.Console.exe.config
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\bin\Debug\Lab01.Console.exe
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\bin\Debug\Lab01.Console.pdb
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\obj\Debug\Lab01.Console.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\obj\Debug\Lab01.Console.exe
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\obj\Debug\Lab01.Console.pdb
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\bin\Debug\Lab01.Logic.dll
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\bin\Debug\Lab01.Logic.pdb
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lab01.Console\Lab01.Console\obj\Debug\Lab01.Console.csprojResolveAssemblyReference.cache

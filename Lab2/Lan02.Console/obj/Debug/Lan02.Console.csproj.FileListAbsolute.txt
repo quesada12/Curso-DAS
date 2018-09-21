@@ -1,0 +1,7 @@
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lan02.Console\bin\Debug\Lan02.Console.exe.config
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lan02.Console\bin\Debug\Lan02.Console.exe
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lan02.Console\bin\Debug\Lan02.Console.pdb
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lan02.Console\obj\Debug\Lan02.Console.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lan02.Console\obj\Debug\Lan02.Console.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lan02.Console\obj\Debug\Lan02.Console.exe
+C:\Users\ulacit\Documents\GitHub\DAS3C2018\Lab 2\Lan02.Console\obj\Debug\Lan02.Console.pdb
