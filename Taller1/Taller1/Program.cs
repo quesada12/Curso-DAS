@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Taller1
 {
@@ -6,7 +7,8 @@ namespace Taller1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Menu menu = new Menu();
+            menu.mostrarMenu();
         }
     }
 }
