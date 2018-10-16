@@ -6,15 +6,22 @@ namespace Taller1
 {
     public static class LogicaComentario
     {
-
-        public static Comentario nuevoComentario(Usuario usuario)
+        /// <summary>
+        /// Método para agregar un comentario
+        /// </summary>
+        /// <returns></returns>
+        public static Comentario NuevoComentario(Usuario usuario)
         {
             Console.WriteLine("Digite su comentario: ");
             string post = Console.ReadLine();
             return new Comentario(post, usuario);
         }
 
-        public static string listaComentarios(List<Comentario> comentarios)
+        /// <summary>
+        /// Método para mostrar todos los comentarios de una lista
+        /// </summary>
+        /// <returns></returns>
+        public static string ListaComentarios(List<Comentario> comentarios)
         {
             StringBuilder listado = new StringBuilder();
 
@@ -27,7 +34,7 @@ namespace Taller1
                 foreach (var Comentario in comentarios)
                 {
                     listado.Append(Comentario);
-                    listado.Append("\n\n-----------------------------------------------------------------------\n\n");
+                    listado.Append("\n-----------------------------------------------------------------------\n");
                 }
             }
 

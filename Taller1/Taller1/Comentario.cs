@@ -19,7 +19,7 @@ namespace Taller1
 
         public override string ToString()
         {
-            return "\nComentario el " + Fecha + "\n" + Post + "\n" + Autor;
+            return "Comentario el " + Fecha + "\n" + Post + "\n" + Autor;
         }
     }
 }

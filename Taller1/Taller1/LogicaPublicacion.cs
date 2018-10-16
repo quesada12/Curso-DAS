@@ -7,7 +7,11 @@ namespace Taller1
     public static class LogicaPublicacion
     {
 
-        public static Publicacion nuevaPublicacion(Usuario usuario)
+        /// <summary>
+        /// Método para agregar una publicación
+        /// </summary>
+        /// <returns></returns>
+        public static Publicacion NuevaPublicacion(Usuario usuario)
         {
             Console.WriteLine("Digite su publicación: ");
             string post = Console.ReadLine();
@@ -15,7 +19,11 @@ namespace Taller1
         }
 
 
-        public static string listaPublicaciones(List<Publicacion> publicaciones)
+        /// <summary>
+        /// Método para mostrar todas las publicaciones
+        /// </summary>
+        /// <returns></returns>
+        public static string ListaPublicaciones(List<Publicacion> publicaciones)
         {
             StringBuilder listado = new StringBuilder();
 
@@ -35,7 +43,11 @@ namespace Taller1
             return listado.ToString();
         }
 
-        public static Boolean existePublicacion(int id,List<Publicacion> publicaciones)
+        /// <summary>
+        /// Método para ver si existe el id de la publicación
+        /// </summary>
+        /// <returns></returns>
+        public static Boolean ExistePublicacion(int id,List<Publicacion> publicaciones)
         {
             foreach (var Publicacion in publicaciones)
             {
@@ -47,7 +59,11 @@ namespace Taller1
             return false;
         }
 
-        public static void agregarComentario(int id,List<Publicacion> publicaciones,Comentario comentario)
+        /// <summary>
+        /// Método para agregar un comentario a una publicación
+        /// </summary>
+        /// <returns></returns>
+        public static void AgregarComentario(int id,List<Publicacion> publicaciones,Comentario comentario)
         {
             foreach (var Publicacion in publicaciones)
             {

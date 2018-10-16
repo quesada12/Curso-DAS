@@ -24,7 +24,7 @@ namespace Taller1
 
         public override string ToString()
         {
-            return "Publicación #"+Id+" el " + Fecha + "\n\n" + Post + "\n" + Autor +"\n\nComentarios:\n"+LogicaComentario.listaComentarios(Comentarios);
+            return "Publicación #"+Id+" el " + Fecha + "\n\n" + Post + "\n" + Autor +"\n\nComentarios:\n\n"+LogicaComentario.ListaComentarios(Comentarios);
         }
 
 
