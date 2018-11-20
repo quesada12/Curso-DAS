@@ -1,5 +1,5 @@
 # Taller #2 - Expediente Clínico
-Jeremy Cerdas
-Eddie Carranza
-Jahel Chacón
+Jeremy Cerdas<br/>
+Eddie Carranza<br/>
+Jahel Chacón<br/>
 Antonio Gaitán
